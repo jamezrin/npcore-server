@@ -2,7 +2,7 @@ fx_version "bodacious"
 
 games { "gta5" }
 
-client_script "@npc-errorlog/client/cl_errorlog.lua"
+client_script "@npc-based-resources/client/errorlog.lua"
 
 server_scripts {
 	"server.lua"

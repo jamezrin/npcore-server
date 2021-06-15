@@ -8,7 +8,7 @@ games { 'gta5' }
 
 dependency "ghmattimysql" --> Remember to configure your Database settings.
 
-client_script "@npc-based-resources/client/cl_errorlog.lua" -- Debug Tool.
+client_script "@npc-based-resources/client/errorlog.lua" -- Debug Tool.
 
 --[[=====INIT=====]]--
 server_script "sh_init.lua"

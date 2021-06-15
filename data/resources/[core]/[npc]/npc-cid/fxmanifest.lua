@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games {'gta5'}
 
-client_script "@np-errorlog/client/cl_errorlog.lua"
+client_script "@npc-based-resources/client/errorlog.lua"
 
 client_script 'cid_client.lua'
 server_script 'cid_server.lua'
